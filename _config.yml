@@ -1,0 +1,28 @@
+title: L Engineer Development
+description: L Engineer Development Blog
+author: Lizhengliang
+logo: /hcz-jekyll-blog/static/img/avatar.png
+github: https://github.com/L-Engineer-Development.github.io
+about: Freelance developer
+
+baseurl: "https://L-Engineer-Development.github.io/"
+url: "https://codeasashu.github.io/hcz-jekyll-blog"
+
+allowsearch: true
+
+disqus_shortname: aboutashu
+google_analytics: UA-72862926-1
+
+share:
+  twitter_username: \#
+  fb_appid: 000000000000
+
+
+enableTags: true
+tagarray: []
+
+paginate: 20
+per_page: 20
+paginate_path: "/page:num/"
+markdown: kramdown
+gems: [jekyll-paginate, jekyll-gist]
